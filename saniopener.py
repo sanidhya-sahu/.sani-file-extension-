@@ -1,6 +1,3 @@
-import os
-cmd="pip install decodesani"
-os.system(cmd)
 from decodesani import *
 from tkinter import *
 from tkinter import filedialog as fd
