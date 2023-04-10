@@ -1,5 +1,5 @@
 # .sani-file-extension-
-This project makes a encodes and decodes( .sani )file extension
+This project encodes and decodes( .sani )file extension, this extenion Encrypt a text file.
   
 .sani encryption works like this
 
